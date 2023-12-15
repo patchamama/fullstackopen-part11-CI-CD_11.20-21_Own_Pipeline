@@ -1,24 +1,11 @@
-# fullstackopen-part11-CI-CD_11.20-21_Own_Pipeline
+# Part 11. Continuous Integration / Continuous Delivery systems (CI/CD)
 
-## Description
+Clone app to create my own pipeline
 
-## Installation
+## e. Expanding Further
 
-## Usage
+- [Exercise 11.20.]() | [Exercise 11.21.]()
 
-## Contributing
+React App to show gifs animation using a Gif API.
 
-## License
-
-## Project status
-
-## Author
-
-## Acknowledgements
-
-## Contact
-
-## Project link
-
-## Project dependencies
-
+Deploy: [https://git-expert-fer1.netlify.app/](https://git-expert-fer1.netlify.app/)
