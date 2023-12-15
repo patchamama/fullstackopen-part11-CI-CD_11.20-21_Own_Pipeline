@@ -11,7 +11,8 @@ describe('Pruebas en <GifItem />', () => {
   })
 
   test('debe de mostrar la imagen con el URL y el ALT indicados', () => {
-    const container = render(<GifItem title={title} url={url} />)
+    // const container = render(<GifItem title={title} url={url} />)
+    render(<GifItem title={title} url={url} />)
     // screen.debug()
     const { src, alt } = screen.getByRole('img')
     expect(src).toBe(url)
