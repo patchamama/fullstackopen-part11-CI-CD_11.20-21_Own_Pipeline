@@ -1,11 +1,8 @@
-# Part 11. Continuous Integration / Continuous Delivery systems (CI/CD)
+# React + Vite
 
-Clone app to create my own pipeline
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## e. Expanding Further
+Currently, two official plugins are available:
 
-- [Exercise 11.20.]() | [Exercise 11.21.]()
-
-React App to show gifs animation using a Gif API.
-
-Deploy: [https://git-expert-fer1.netlify.app/](https://git-expert-fer1.netlify.app/)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
