@@ -1,19 +1,23 @@
 {
+  "engines": {
+    "node": "16.19.1"
+  },
   "name": "gif-expert-app",
   "homepage": "https://patchamama.github.io/devtalles-react/04-gif-expert-app",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "start-prod": "react-scripts start",
+    "start-prod": "node app.js",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "deploy": "gh-pages -d build",
     "test": "jest"
   },
   "dependencies": {
+    "express": "^4.18.2",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
