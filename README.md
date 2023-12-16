@@ -1,8 +1,7 @@
-# React + Vite
+# Part 11. Continuous Integration / Continuous Delivery systems (CI/CD)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Deploy: [https://gif-expert-app-08d6e26d8dd5.herokuapp.com/](https://gif-expert-app-08d6e26d8dd5.herokuapp.com/)
 
-Currently, two official plugins are available:
+Adicional Repo to resolve exercises 11.20-21.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Repo to exercises 11.1-11.19: [https://github.com/patchamama/fullstackopen-part11-CI-CD](https://github.com/patchamama/fullstackopen-part11-CI-CD)
